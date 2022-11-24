@@ -1,4 +1,3 @@
-venv
-.venv
-.DS_Store
-todos/.DS_Store
+*
+*.pyc
+todos/venv/
