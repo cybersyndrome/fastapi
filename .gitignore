@@ -1,3 +1,7 @@
-*
-*.pyc
+
+__pycache__/
+.venv/
+todos/.DS_Store/
 todos/venv/
+todos/__pycache__/
+requirements.txt
